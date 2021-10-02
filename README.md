@@ -10,3 +10,7 @@
 * Nesta tabela ele demonstra o caminho mais curto de dois pontos predefinidos, desviando do obstáculo criado pelo usuário.
 
 <p aling="center"><img src="https://github.com/DarlanNoetzold/EncontrarCaminho/blob/master/Encontrar%20Caminho01.jpg"> <img src="https://github.com/DarlanNoetzold/EncontrarCaminho/blob/master/Encontrar%20Caminho02.jpg"></p>
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
