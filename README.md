@@ -1,15 +1,15 @@
-# EncontrarCaminho
-## Desenvolvimento do Software
-* Foi usado a Linguagem Python para toda a criação e estruturação Orientada a Objetos do programa.
-* Foram usadas as Bibliotecas TKinter e PyGame para a interface gráfica.
-* Também se fez uso da Biblioteca math para os cálculos usados.
-## Funcionalidades
-* O programa inicia pedindo as coordenadas de inicio e fim dos pontos.
-* Após isso o usuário devera criar os obstáculos no campo quadriculado.
-* Então o programa começa a testar todas as possibilidades, que, se o usuário marcar o campo "show steps", será mostrado no programa.
-* Nesta tabela ele demonstra o caminho mais curto de dois pontos predefinidos, desviando do obstáculo criado pelo usuário.
+# FindPath
+## Software Development
+* Python was used for all the creation and Object Oriented structuring of the program.
+* The TKinter and PyGame libraries were used for the graphical interface.
+* The math library was also used for the calculations used.
+## Functionalities
+* The program starts by asking for the coordinates of the start and end of the points.
+* After that, the user must create the obstacles in the grid field.
+* Then the program starts testing all the possibilities, which, if the user checks the "show steps" field, will be shown in the program.
+* This table shows the shortest path from two predefined points, avoiding the obstacle created by the user.
 
-<p aling="center"><img src="https://github.com/DarlanNoetzold/EncontrarCaminho/blob/master/Encontrar%20Caminho01.jpg"> <img src="https://github.com/DarlanNoetzold/EncontrarCaminho/blob/master/Encontrar%20Caminho02.jpg"></p>
+<p aling="center"><img src="https://github.com/DarlanNoetzold/FindPath/blob/master/Find%20Path01.jpg"> <img src="https://github.com/DarlanNoetzold/FindPath/blob/master/Find%20Path02.jpg"></p>
 
 ---
 
